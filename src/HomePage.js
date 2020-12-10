@@ -26,7 +26,8 @@ function InfoRow({course, type, daysLeft}){
         styler = <div className="smallCircle">{daysLeft}</div>
     }
     let row =(
-        <div className="rowContainer" onClick={() => window.location="/details/" + course + "/" + type + "/" + daysLeft}>
+        <Link style={{textDecoration: "none", color: "black"}} to={"/details/" + course + "/" + type + "/" + daysLeft}>
+        <div className="rowContainer">
             <div className="leftLeft">
             <img className="chev" src={chev}/>
             </div>
@@ -43,6 +44,7 @@ function InfoRow({course, type, daysLeft}){
             </div>
 
         </div>
+        </Link>
     )
     return row;
 }
