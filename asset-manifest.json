@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Unittracker/static/css/main.4f80c914.chunk.css",
+    "main.js": "/Unittracker/static/js/main.1932c1ec.chunk.js",
+    "main.js.map": "/Unittracker/static/js/main.1932c1ec.chunk.js.map",
+    "runtime-main.js": "/Unittracker/static/js/runtime-main.7d149cdb.js",
+    "runtime-main.js.map": "/Unittracker/static/js/runtime-main.7d149cdb.js.map",
+    "static/css/2.fe708519.chunk.css": "/Unittracker/static/css/2.fe708519.chunk.css",
+    "static/js/2.fb05a1f1.chunk.js": "/Unittracker/static/js/2.fb05a1f1.chunk.js",
+    "static/js/2.fb05a1f1.chunk.js.map": "/Unittracker/static/js/2.fb05a1f1.chunk.js.map",
+    "static/js/3.b6c5325d.chunk.js": "/Unittracker/static/js/3.b6c5325d.chunk.js",
+    "static/js/3.b6c5325d.chunk.js.map": "/Unittracker/static/js/3.b6c5325d.chunk.js.map",
+    "index.html": "/Unittracker/index.html",
+    "static/css/2.fe708519.chunk.css.map": "/Unittracker/static/css/2.fe708519.chunk.css.map",
+    "static/css/main.4f80c914.chunk.css.map": "/Unittracker/static/css/main.4f80c914.chunk.css.map",
+    "static/js/2.fb05a1f1.chunk.js.LICENSE.txt": "/Unittracker/static/js/2.fb05a1f1.chunk.js.LICENSE.txt",
+    "static/media/add.90444a83.png": "/Unittracker/static/media/add.90444a83.png",
+    "static/media/calendar.892f7ace.svg": "/Unittracker/static/media/calendar.892f7ace.svg",
+    "static/media/chevron.f5a6aa06.svg": "/Unittracker/static/media/chevron.f5a6aa06.svg",
+    "static/media/circle.042e4fb2.png": "/Unittracker/static/media/circle.042e4fb2.png",
+    "static/media/gear.2cef1e3d.svg": "/Unittracker/static/media/gear.2cef1e3d.svg",
+    "static/media/liu.552851fe.jfif": "/Unittracker/static/media/liu.552851fe.jfif",
+    "static/media/logo.103b5fa1.svg": "/Unittracker/static/media/logo.103b5fa1.svg",
+    "static/media/plus.536a9f34.png": "/Unittracker/static/media/plus.536a9f34.png",
+    "static/media/task.110ee1fc.svg": "/Unittracker/static/media/task.110ee1fc.svg",
+    "static/media/user.66ea99ae.svg": "/Unittracker/static/media/user.66ea99ae.svg",
+    "static/media/welcomeBW.cb752025.mp4": "/Unittracker/static/media/welcomeBW.cb752025.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d149cdb.js",
+    "static/css/2.fe708519.chunk.css",
+    "static/js/2.fb05a1f1.chunk.js",
+    "static/css/main.4f80c914.chunk.css",
+    "static/js/main.1932c1ec.chunk.js"
+  ]
+}
